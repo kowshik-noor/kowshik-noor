@@ -1,4 +1,4 @@
-### Hi there 👋
+### 😃 Hello, There 👋🏽
 
 <!--
 **kowshik-noor/kowshik-noor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me 💁🏽‍♂️
+
+My name is Kowshik Noor. I am a **Full Stack Web Developer** and a [graduate](https://www.linkedin.com/in/kowshik-noor-58ba9967/overlay/1635475887591/single-media-viewer/) of Coding Dojo. I am pursuing my Bachelor's Degree in Computer Science.
